@@ -5,7 +5,6 @@
 
 #### Setup and Dependencies
 To reproduce the project, you need to have the following libraries installed:
-
 pandas
 numpy
 matplotlib
