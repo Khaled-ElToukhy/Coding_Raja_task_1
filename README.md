@@ -6,12 +6,12 @@
 #### Setup and Dependencies
 To reproduce the project, you need to have the following libraries installed:
 
-*pandas
-*numpy
-*matplotlib
-*plotly.express
-*seaborn
-*nltk
+* pandas
+* numpy
+* matplotlib
+* plotly.express
+* seaborn
+* nltk
 
 You can install these packages using pip or any other package manager of your choice.
 
