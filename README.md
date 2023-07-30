@@ -1,9 +1,9 @@
 # Coding_Raja_DataScience_Intern_task_1
-##Sentiment Analysis for Yelp
+## Sentiment Analysis for Yelp
 
-###This project aims to Analyze the sentiment of yelp reviews as positive or negative or neutral using natural language processing techniques.
+### This project aims to Analyze the sentiment of yelp reviews as positive or negative or neutral using natural language processing techniques.
 
-####Setup and Dependencies
+#### Setup and Dependencies
 To reproduce the project, you need to have the following libraries installed:
 
 pandas
